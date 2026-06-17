@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sadhana Sri 👋
 
-<!--
-**sadhanasri-rp/sadhanasri-rp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Currently Learning:
+- C Programming
+- Python
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Goals:
+- Improve problem-solving skills
+- Build projects
+- Learn software development
+
+📚 College:
+Rajalakshmi Engineering College
+
+✨ Learning one step at a time.
